@@ -1,5 +1,5 @@
 # learning-joint-limits
-Code for the experiments in "Probabilistic Inference of Human Capabilities from Passive Observations", submitted to IROS 2024.
+Code for the experiments in "Probabilistic Inference of Human Capabilities from Passive Observations". Accepted to IROS 2024.
  
  ## Setting Up the Environment
  To set up the virtual Python environment and then run it, run the following commands:
